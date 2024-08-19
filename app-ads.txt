@@ -1,0 +1,4 @@
+https://help.example.com/app-ads.txt
+http://help.example.com/app-ads.txt
+https://example.com/app-ads.txt
+http://example.com/app-ads.txt
